@@ -1,3 +1,0 @@
-/mnt/c/Users/Acer/Desktop/c++/build/CMakeFiles/main.dir
-/mnt/c/Users/Acer/Desktop/c++/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/Acer/Desktop/c++/build/CMakeFiles/rebuild_cache.dir
